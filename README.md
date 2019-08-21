@@ -1,2 +1,2 @@
-# biol345l
-Teaching material for the BIOL 345L teaching lab
+# Animal Physiology 
+Teaching material for laboratory activities involving animal physiology
